@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Gabriel Knox"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Havre de Grace MD"
   employer         : "Havre de Grace High school"
   uri              : # URL
   email            : "gabrielknox@student.hcps.org" 
