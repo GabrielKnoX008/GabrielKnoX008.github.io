@@ -1,11 +1,5 @@
----
-permalink: /
-title: "My Resume"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
+
 Skills
 ======
 1. profiecient in computer programming language Java through 3+ years of study
@@ -20,18 +14,18 @@ Tools and Software
 1. familiar with Roblox studio learned through personal projects 
 
 Education
-------
+======
 1. I am currently 3 years into my studies at Havre de Grace highschool as a Junior
 1. I am enrolled in the ITOA magnet program at Havre de Grace highschool and learn about programming
 
 Achievements
-------
+======
 1. I have been apart of Havre de Grace varisty cross country team for 3 years and qualified for the state meet each year
 1. I run winter and Spring track for my high school
 1. I was selected for the ITOA magnet program at Havre de Grace Highschool to study informational technologies and databases
 
 interests
-------
+======
 some of my hobbies include
 1. video games
 1. art
