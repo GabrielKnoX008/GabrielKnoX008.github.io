@@ -24,9 +24,8 @@ Achievements
 1. I run winter and Spring track for my high school
 1. I was selected for the ITOA magnet program at Havre de Grace Highschool to study informational technologies and databases
 
-interests
+Interests/Hobbies
 ======
-some of my hobbies include
 1. video games
 1. art
 1. running
